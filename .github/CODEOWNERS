@@ -1,0 +1,7 @@
+# Default owners for everything
+*                   @cloudmind-devops-org/developers
+
+# Platform team owns delivery and deployment config
+/.github/           @cloudmind-devops-org/platform
+/Dockerfile         @cloudmind-devops-org/platform
+/helm/              @cloudmind-devops-org/platform
